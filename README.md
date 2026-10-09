@@ -21,6 +21,14 @@ An open contribution to Terminal-Bench focused on noisy shipment references, inv
 
 The implementation uses deterministic fixtures, independent truth computation, cross-artifact checks, and adversarial boundary cases. The PR is currently under maintainer review.
 
+## Public repositories
+
+- [terminal-bench-3-public](https://github.com/ShaDowYr21/terminal-bench-3-public) — current TB3 fork and benchmark task work.
+- [gem-automation-tool](https://github.com/ShaDowYr21/gem-automation-tool) — seller-preparation workflow and public drafting tool.
+- [Web-Projects](https://github.com/ShaDowYr21/Web-Projects) — earlier web experiments.
+
+The older `terminal-bench` URL redirects to `terminal-bench-3-public`. A public TB4 repository is not currently present under this account, so I have not added a misleading or broken link.
+
 ### GeM Automation Tool
 
 [GeM Automation Tool](https://github.com/ShaDowYr21/gem-automation-tool) · [Public drafting tool](https://shadowyr21.github.io/gem-automation-tool/)
